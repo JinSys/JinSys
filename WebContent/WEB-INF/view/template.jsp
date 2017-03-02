@@ -1,3 +1,4 @@
+<%@ page pageEncoding="UTF-8" contentType="text/html; charset=UTF-8"%> 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -66,7 +67,7 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">WHO</a></li>
+        <li><a href="#">견적문의</a></li>
         <li><a href="#">WHAT</a></li>
         <li><a href="#">WHERE</a></li>
       </ul>
